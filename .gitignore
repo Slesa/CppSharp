@@ -22,11 +22,8 @@ src/generator/generator
 *.opensdf
 *.pdb
 *.config
-*.vcxproj
 *.filters
-*.sln
 *.metagen
-*.csproj
 *.ilk
 *.manifest
 *.tmp
